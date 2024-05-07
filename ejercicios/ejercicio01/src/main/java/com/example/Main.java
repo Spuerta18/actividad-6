@@ -2,8 +2,8 @@ package com.example;
 
 public class Main {
     public static void main(String[] args) {
-        String nombre = "Juan Zapata";
-        int salarioBase = 3000000;
+        String nombre = "Santiago Puerta";
+        int salarioBase = 2850620;
         int horasTrabajo = 192;
         int horasExtras = 10;
         double auxilioTransporte = 162000;
